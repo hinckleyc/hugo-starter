@@ -1,5 +1,5 @@
 ---
-title: "My Project"
+title: "About Me"
 date: 2021-11-02T08:10:29-04:00
 weight: 1
 aliases: ["/my-project-blog"]
@@ -12,7 +12,8 @@ cover:
   caption: "Me working on the project"
 ---
 
-This is a blog post. You don't need to have one, but it's nice!
+I am a junior at Allegheny College and a Computer Science and Economics double major. Throughout my
+classes I have learning several different programming languages.
 
 ## More information
 
