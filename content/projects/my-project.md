@@ -10,6 +10,7 @@ ShowPostNavLinks: false
 ---
 
 ## My project
+Gator cogitate is a program that tracks employees usage to make sure that they are working on finishing there tasks. 
 
 You can find the current release on [PyPI](https://www.pypi.org)!
 
