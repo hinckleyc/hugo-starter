@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Projects: Gotar Cogitate"
 draft: false
 ShowBreadCrumbs: false
 ---
