@@ -12,6 +12,4 @@ cover:
   caption: "Me working on the project"
 ---
 
-I am a junior at Allegheny College and a Computer Science and Economics double major. Throughout my
-classes I have learning several different programming languages(Java, Python, C++).
-
+This summer, I would like to get a internship to be a data analyst. I found that becoming a data analyst was my career goal during a class I took my sophomore year at Allegheny (CMPSC 203) Software Engineering. During that class we made a tool called gator cogitate which was able to track users activity during a project. This really excited me because it showed the power that data has. With this tool, we were able to better understand how people work and it showcased how they were helping the group be able to complete the project. I never thought that I would want to become a data analyst but after that class, I knew I wanted to become one.
