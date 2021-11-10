@@ -13,8 +13,5 @@ cover:
 ---
 
 I am a junior at Allegheny College and a Computer Science and Economics double major. Throughout my
-classes I have learning several different programming languages.
+classes I have learning several different programming languages(Java, Python, C++).
 
-## More information
-
-I loved doing this project.
