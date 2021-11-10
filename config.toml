@@ -70,7 +70,7 @@ url = "/projects/"
 weight = 20
 
 [[menu.main]]
-identifier = "link"
-name = "A link"
-url = "https://google.com/search?tbm=isch&q=cute%20puppies"
+identifier = "github"
+name = "My github"
+url = "https://github.com/hinckleyc?tab=repositories"
 weight = 30
