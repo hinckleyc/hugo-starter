@@ -4,5 +4,5 @@ draft: false
 ShowBreadCrumbs: false
 ---
 
-This page lists my projects. You could put everything in this file, or separate each project into a file in the `/content/projects/` directory.
-url = "https://github.com/hinckleyc?tab=repositories"
+Gator Cogitate is a tool that keeps track of users work rate by tracking the number of commits, lines changes, lines added, lines deleted, pull requests, lines removed, and issue trackers. 
+url = "https://github.com/GatorCogitate/cogitate_tool"
