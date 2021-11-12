@@ -8,3 +8,4 @@ hidemeta: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: false
 ---
+These are the classes and online courses that I have taken for computer science.
