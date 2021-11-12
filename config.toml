@@ -64,8 +64,8 @@ url = "/blog/"
 weight = 10
 
 [[menu.main]]
-identifier = "Projects"
-name = "Projects"
+identifier = "Projects and Education"
+name = "Projects and Education"
 url = "/projects/"
 weight = 20
 
