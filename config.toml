@@ -18,14 +18,14 @@ disableScrollToTop = false
 
 [params.label]
 text = "Home"
-icon = "/profile.png"
+icon = "/profile_.png"
 iconHeight = 24
 
 [params.profileMode]
 enabled = true
 title = "Caden Hinckley"
 subtitle = "Computer Science"
-imageUrl = "profile.png"
+imageUrl = "profile_.png"
 imageWidth = 120
 imageHeight = 120
 
