@@ -34,6 +34,9 @@ name = "tags"
 url = "/tags/"
 
 
+name = "resume"
+url = "https://docs.google.com/document/d/14DZNka0vV_ObJC8rFdWCJ7i2ufUOEMWiHOD_PHzjVo0"
+
 
 [[params.socialIcons]]
 name = "github"
