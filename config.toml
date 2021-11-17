@@ -39,6 +39,10 @@ url = "/tags/"
 name = "github"
 url = "https://github.com/"
 
+[[params.socialIcons]]
+name = "Linkedin"
+url = "https://www.linkedin.com/in/caden-hinckley-49a145224/"
+
 
 [[menu.main]]
 identifier = "About Me"
@@ -54,12 +58,12 @@ weight = 20
 
 [[menu.main]]
 identifier = "github"
-name = "My github"
+name = "My Github"
 url = "https://github.com/hinckleyc?tab=repositories"
 weight = 30
 
 [[menu.main]]
 identifier = "Linkedin"
-name = "My Linkedin"
+name = "Linkedin"
 url = "https://www.linkedin.com/in/caden-hinckley-49a145224/"
 weight = 30
