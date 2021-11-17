@@ -3,7 +3,7 @@ title: Education
 date: 2021-11-02T08:10:29-04:00
 draft: false
 showReadingTime: false
-hideSummary: true
+hideSummary: false
 hidemeta: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: false

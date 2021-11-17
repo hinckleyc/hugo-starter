@@ -33,29 +33,12 @@ imageHeight = 120
 name = "tags"
 url = "/tags/"
 
-[[params.profileMode.buttons]]
-name = "puppies"
-url = "https://google.com/search?tbm=isch&q=puppies"
 
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/"
-
-[[params.socialIcons]]
-name = "instagram"
-url = "https://instagram.com/"
-
-[[params.socialIcons]]
-name = "stackoverflow"
-url = "https://stackoverflow.com"
 
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/"
 
-[[params.socialIcons]]
-name = "gitlab"
-url = "https://gitlab.com/"
 
 [[menu.main]]
 identifier = "About Me"
