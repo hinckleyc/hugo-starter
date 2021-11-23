@@ -30,8 +30,8 @@ imageWidth = 120
 imageHeight = 120
 
 [[params.profileMode.buttons]]
-name = "tags"
-url = "/tags/"
+name = "Resume"
+url = "https://docs.google.com/document/d/14DZNka0vV_ObJC8rFdWCJ7i2ufUOEMWiHOD_PHzjVo0/edit#"
 
 
 name = "resume"
