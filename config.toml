@@ -46,6 +46,11 @@ url = "https://github.com/"
 name = "Linkedin"
 url = "https://www.linkedin.com/in/caden-hinckley-49a145224/"
 
+[[params.socialIcons]]
+name = "Resume"
+url = "https://docs.google.com/document/d/14DZNka0vV_ObJC8rFdWCJ7i2ufUOEMWiHOD_PHzjVo0/edit#"
+
+
 
 [[menu.main]]
 identifier = "About Me"
