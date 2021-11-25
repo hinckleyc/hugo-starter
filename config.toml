@@ -65,9 +65,9 @@ url = "/projects/"
 weight = 20
 
 [[menu.main]]
-identifier = "github"
-name = "My Github"
-url = "https://github.com/hinckleyc?tab=repositories"
+identifier = "Resume"
+name = "Resume"
+url = "https://docs.google.com/document/d/14DZNka0vV_ObJC8rFdWCJ7i2ufUOEMWiHOD_PHzjVo0/edit#"
 weight = 30
 
 [[menu.main]]
